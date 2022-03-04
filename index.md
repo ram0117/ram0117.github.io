@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## 김예람`金예람`
 
-You can use the [editor on GitHub](https://github.com/ram0117/ram0117.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+2002.01.17 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+정관초등학교`부산`
+
+모전중학교`부산`
+
+장안제일고등학교 `부산`
+
+이화여자대학교 경제학과 `서울`
 
 ### Markdown
 
