@@ -36,5 +36,3 @@
 외향적
 
 
- _Italic_ and `Code` 
-P
