@@ -10,29 +10,39 @@
 
 이화여자대학교 경제학과 `서울`
 
-### Markdown
+### 취미
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**노래**
 
-```markdown
-Syntax highlighted code block
+ㄴ혼코노
 
-# Header 1
-## Header 2
-### Header 3
+**넷플릭스**
 
-- Bulleted
-- List
+ㄴ프렌즈
 
-1. Numbered
-2. List
+ㄴ브루클린 나인나인
 
-**Bold** and _Italic_ and `Code` text
+**춤**
 
+ㄴ댄스학원
+
+
+# ESTJ
+
+계획형
+
+현실적
+
+외향적
+
+
+ _Italic_ and `Code` 
+PICTURE 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github![2112_H5486_](https://user-images.githubusercontent.com/100740671/156712625-b5360f56-7442-4bcf-aded-2ec5be1db3ec.jpg)
+/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
